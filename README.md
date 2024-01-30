@@ -1,3 +1,4 @@
+les taches deja realiser sont :
 L’établissement d’un planning de travail
 La compréhension du sujet 
 La sélection d’un dataset.
