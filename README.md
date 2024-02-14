@@ -1,4 +1,4 @@
-*RAPPORT GROUPE 1* \
+**RAPPORT GROUPE 1** \
 les taches deja realiser sont :\
 L’établissement d’un planning de travail\
 La compréhension du sujet \
@@ -9,4 +9,5 @@ Nous debutons la redaction de l'arbre de decition\
 Arbre de decision terminer\
 Realisation de la matrice de confusion terminer\
 Debut du tp2\
-redaction des codes PCA et SVD en cours
+redaction des codes PCA et SVD en cours\
+Fin de la redaction du code PCA
